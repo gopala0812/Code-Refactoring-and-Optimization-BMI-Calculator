@@ -14,6 +14,7 @@
 *MENTOR*: NEELA SANTHOSH
 
 📌 Project Overview
+
 This project is a thoroughly refactored and redesigned version of an open-source BMI Calculator. The original version was a basic implementation with limited interactivity and outdated code structure. As part of Task 4 in my internship with CODTECH IT SOLUTIONS, I was required to select an open-source project, analyze its shortcomings, and perform a complete refactoring along with performance and design improvements.
 
 The refactored application offers a clean and modern user interface, enhanced responsiveness, support for dynamic unit selection (cm/in/ft for height and kg/lbs for weight), and an instant BMI result display. The BMI result color dynamically changes based on the user's category, and a visually improved BMI scale is displayed on the left for easy reference.
@@ -88,6 +89,11 @@ This task greatly contributed to my understanding of real-world frontend develop
 I consider this final task a fitting culmination of my internship journey, combining everything I learned in Tasks 1 to 3—especially clean UI design, live interactivity, and optimization. The resulting BMI calculator is now clean, fast, visually appealing, and easy to extend further.
 
 # Output
+
+BEFORE REFACTORIZATION
+
+<img width="1920" height="974" alt="Image" src="https://github.com/user-attachments/assets/fd394d06-e618-4147-95d5-f12a44d99667" />
+
 
 AFTER REFACTORIZATION
 <img width="1916" height="1013" alt="Image" src="https://github.com/user-attachments/assets/8eac79c4-6f06-4ad9-b1f8-e6b32bce20bf" />
