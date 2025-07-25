@@ -89,4 +89,10 @@ I consider this final task a fitting culmination of my internship journey, combi
 
 # Output
 
+AFTER REFACTORIZATION
+<img width="1916" height="1013" alt="Image" src="https://github.com/user-attachments/assets/8eac79c4-6f06-4ad9-b1f8-e6b32bce20bf" />
+<img width="1918" height="1007" alt="Image" src="https://github.com/user-attachments/assets/3c07ecab-0125-403c-8118-1b42d6816fa6" />
+<img width="1917" height="1007" alt="Image" src="https://github.com/user-attachments/assets/c4624fb4-2558-4805-b235-eae8054795d3" />
+<img width="1918" height="1011" alt="Image" src="https://github.com/user-attachments/assets/41bb3c17-36f2-4f4e-80ce-c535d5fe21df" />
+
 
